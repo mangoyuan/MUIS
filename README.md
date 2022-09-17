@@ -6,8 +6,6 @@ Keywords: Unsupervised Segmentation, OCT, Scale-invariant.
 
 Source code of "Multiscale Unsupervised Retinal Edema Area Segmentation in OCT Images (MICCAI2022)".
 
-The code will be released soon.
-
 ## Make Dataset 
 
 1. Download `ai_challenger_fl2018` dataset from ai challenge.
