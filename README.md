@@ -33,3 +33,16 @@ python make_edema.py
 ## Thanks
 
 - [DCCS](https://github.com/sKamiJ/DCCS)
+
+## Citation 
+
+```
+@inproceedings{yuan2022multiscale,
+  title={Multiscale Unsupervised Retinal Edema Area Segmentation in OCT Images},
+  author={Yuan, Wenguang and Lu, Donghuan and Wei, Dong and Ning, Munan and Zheng, Yefeng},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={667--676},
+  year={2022},
+  organization={Springer}
+}
+```
